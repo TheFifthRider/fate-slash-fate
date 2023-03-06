@@ -1,4 +1,9 @@
-site_name: Fate Slash
+site_name: FATE / Moon
 repo_url: 'https://github.com/TheFifthRider/fate-slash-fate/'
 theme:
   name: material
+  custom_dir: overrides
+copyright: Fate™ is a trademark of Evil Hat Productions, LLC. The Powered by Fate logo is © Evil Hat Productions, LLC and is used with permission.
+markdown_extensions:
+  - attr_list
+  - md_in_html
