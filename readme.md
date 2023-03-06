@@ -2,10 +2,13 @@
 Just another Type of FATE hack.
 
 ![Powered by Fate logo](docs/img/Powered-by-Fate-Final-Dark-BG-300x116.png)
+
 Fate™ is a trademark of Evil Hat Productions, LLC. The Powered by Fate logo is © Evil Hat Productions, LLC and is used with permission.
 
 ## Running the website
+
 `pip install -r requirements.txt`
+
 `mkdocs serve`
 
 ## Contributing
