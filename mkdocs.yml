@@ -1,0 +1,4 @@
+site_name: Fate Slash
+repo_url: 'https://github.com/TheFifthRider/fate-slash-fate/'
+theme:
+  name: material
