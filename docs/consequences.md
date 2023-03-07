@@ -22,3 +22,6 @@ You may clear a consequence after a certain amount of time in recovery:
 | Mild | One scene |
 | Moderate | One session |
 | Severe | Three sessions |
+
+## Stress and Advancement
+In order to acquire more health in your Stress Bar, you may trade Fate Point refresh for 1 additional point to each of your bars. You may also do this when you reach a Milestone that would give you extra refresh.
