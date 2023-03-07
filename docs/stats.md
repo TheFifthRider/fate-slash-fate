@@ -1,6 +1,6 @@
 # Skills and Combat Styles
 
-Fate/moon uses a split list of stats: 12 Skills and 6 Combat Styles. 
+FATE/Moon uses a split list of stats: 12 Skills and 6 Combat Styles. 
 
 This is in order to allow players to focus on non combat skills without feeling like they can’t function during combat, which is half the roleplay. Skills have been changed from the base game in order to fit Chaldea and also make some skills less useful which may have been overpowered and vice versa. 
 
@@ -9,6 +9,7 @@ In general, Skills are used for Overcomes and to Create an Advantage, while Comb
 Stunts can create exceptions to the contexts in which Skills or Combat Styles are used. Different Skills may also be applicable to the same situation depending on the way in which a character chooses to handle the situation.
 
 The following are Skills: 
+
 1. Athletics
 2. Crafts
 3. Discover
@@ -23,6 +24,7 @@ The following are Skills:
 12. Will
 
 The following are Combat Styles:
+
 1. Buster
 2. Wild
 3. Quick
@@ -82,7 +84,7 @@ A character's mental fortitude. Used to overcome mental attacks or problems. It 
 
 # Combat Styles
 
-Approaches are used as a substitute for Skills in the Fate Accelerated system. We are using Approaches exclusively for combat. We will call these Combat Styles. Combat Styles are mostly just much more broad Skills. For combat we will be rolling these as a way to make a more specialized and unique combat system. These Combat Styles represent your character's skill in specific kinds of combat types. T
+Approaches are used as a substitute for Skills in the Fate Accelerated system. We are using Approaches exclusively for combat. We will call these Combat Styles. Combat Styles are mostly just much more broad Skills. For combat we will be rolling these as a way to make a more specialized and unique combat system. These Combat Styles represent your character's skill in specific kinds of combat types.
 
 ### Buster
 
@@ -131,10 +133,14 @@ What does rolling a number mean? [sic]
 | # | Interpretation |
 | -- | -----------------------------------------------| 
 | 0 | A normal, untrained human has this stat. Its naturally what you can do as a member of the human race |
-| 1 | Someone who knows the basics and has a surface level understanding, but are still more experienced than if they had just learned of the thing
-| 2 | Well educated in the subject, but does not know the ins and outs of the craft
-| 3 | Has performed the task or skill enough to have learned more than just book smarts. Can fundamentally understand things that someone who isnt as experienced in said field would not understand.
-| 4 | a professional, likely this stat is a focus of their life.
-| 5 | a master, someone who knows the stat inside and out. The difference between say a painter with some works in an art gallery vs a painter who can make a fortune off their paintings
-| 6 | a genius, someone who understands the stat more than most people on the planet
-| 7 | a godlike command over the stat, something most mortals could not achieve.
+| 1 | Someone who knows the basics and has a surface level understanding, but are still more experienced than if they had just learned of the thing |
+| 2 | Well educated in the subject, but does not know the ins and outs of the craft |
+| 3 | Has performed the task or skill enough to have learned more than just book smarts. Can fundamentally understand things that someone who isnt as experienced in said field would not understand. |
+| 4 | A professional, likely this stat is a focus of their life. |
+| 5 | A master, someone who knows the stat inside and out. The difference between say a painter with some works in an art gallery vs a painter who can make a fortune off their paintings. |
+| 6 | A genius, someone who understands the stat more than most people on the planet. |
+| 7 | A godlike command over the stat, something most mortals could not achieve. |
+
+# Advancement
+
+Because there are a significant amount more skills than combat styles, whenever you get a **Breakthrough** you only are able to increase your skills by 1. However, some breakthroughs the GMs might say it makes sense for everyone to get a power boost. In that case they can increase a combat style by 1 in addition to a skill.

@@ -4,11 +4,11 @@ The Class System of the Holy Grail War is sort of important to the whole Fate un
 
 ## Saber					
 Aspect:	***Combat Prowess***				
-Stunt:	When you Tie or Succeed with Style on an Attack, create an Aspect with a free invoke (replacing the boost).				
+Stunt:	When you Tie or Succeed with Style on an Attack, create an Aspect with a free invoke (replacing the boost).		
 
 ## Lancer					
 Aspect:	***Fast and Agile***				
-Stunt:	When you skip your turn to go into Full Defense, create a Boost.				
+Stunt:	You get +2 when splitting your effort on an Attack. (You split your effort when you have multiple targets, you must assign at least 1 shift each)
 
 ## Archer					
 Aspect:	***Archer's Sight***				
@@ -16,7 +16,7 @@ Stunt:	You can invoke Archer's Sight to increase the range of an action to anyth
 
 ## Rider					
 Aspect:	***Trusty Mount***				
-Stunt:	You can invoke Trusty Mount to magically summon your mount (detailed in your NP) to your side.				
+Stunt:	You can invoke Trusty Mount when Moving on your mount to prevent enemies from Defending against your movement.
 
 ## Caster					
 Aspect:	***Territory / Item Creation***				
