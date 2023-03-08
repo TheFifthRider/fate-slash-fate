@@ -46,6 +46,9 @@ Fate Points can famously be spent to "Declare A Story Detail", but this is not a
 
 ### Compelling Aspects
 
+!!! tip "You're doing WHAT now?"
+    **Compelling is not Invoking!!!!!!!!!!**
+
 Compels are used to complicate the players' fates by drawing upon the natural impliations of Aspects: "Because x, shouldn't y?"
 
 More specifically, Fate officially offers this template for Compels:
