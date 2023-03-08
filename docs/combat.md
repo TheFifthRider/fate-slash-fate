@@ -124,4 +124,4 @@ To take control of your character's fate, you can Concede. **This is not the sam
 
 You can Concede during any Turn of the Exchange, even after an Action has been declared, as long as the dice have not yet been rolled. 
 
-If you Concede, you receive 1FP!
+If you Concede, you receive 1 fate point, plus an additional fate point for each consequence you suffered during the conflict!
