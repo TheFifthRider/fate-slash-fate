@@ -40,7 +40,7 @@ However, you can only spend 1FP toward Invocation per Action, though you can spe
 1. Add +2 per invoke to your own Roll.
 2. Add +2 per invoke to someone else's Roll against Passive Opposition
 3. Add +2 per invoke to someone or something's Passive Opposition.
-4. Reroll all four of your Fate Dice. (Recommended most for negative rolls)
+4. Reroll all four of your Fate Dice. (Recommended when you roll -3 or lower)
 
 Fate Points can famously be spent to "Declare A Story Detail", but this is not an Invocation.
 
