@@ -75,4 +75,4 @@ Compels are a choice for the player to make, not necessarily their character. Fo
 
 In vanilla Fate Core, accepting a Compel rewards the character with a Fate Point, but rejecting a Compel *costs* a Fate Point. This can feel punishing, effectively costing the player 2 Fate Points, and can complicate refusals based upon character interpretations. 
 
-Thus, in Fate/moon, **Accepting a Compel rewards 1 FP, but rejecting a Compel costs nothing.** 
+Thus, in FATE/Moon, **Accepting a Compel rewards 1 FP, but rejecting a Compel costs nothing.** 
