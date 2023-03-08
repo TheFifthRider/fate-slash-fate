@@ -2,7 +2,7 @@
 
 Aspects codify features of the world, the environment, the situation, and your character. They are simple, plain truths that describe both the physical and the abstract. 
 
-There are two primary ways to use Aspects: Invocation and Compels.
+There are two primary ways to use Aspects: Invocations and Compels.
 
 ## Clarifications
 
