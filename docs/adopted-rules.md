@@ -1,11 +1,11 @@
 # Adopted Rules
 
 ## Weapon and Armor Levels
-(*Source: [Fate Core](https://fate-srd.com/fate-core/more-examples-extras#weapon-and-armor-ratings)*)
+(*Source: [Fate Core & Condensed](https://fate-srd.com/fate-condensed/optional-rules#weapon-and-armor-ratings)*)
 
 Physical weapons and armor are not typically tracked as resources in Fate. 
 
-Instead, "Weapon" and "Armor" refer to a type of Extra that a character can have. Taking Weapon or Armor Extra grants a passive modifier to damage calculation. Weapon adds to damage dealt, and Armor reduces damage taken. The modifier is equal to the rating Level. 
+Instead, "Weapon" and "Armor" are a special property that a character can get. Taking Weapon or Armor Extra grants a passive modifier to damage calculation. Weapon adds to damage dealt, and Armor reduces damage taken. The modifier is equal to the rating Level. 
 
 ### Rolling with Weapon and Armor
 
@@ -37,7 +37,7 @@ Weapon and Armor are our currently recommended mechanics for damage factors. Fur
 ## Obstacles
 (*Source: [Fate Adversary Toolkit](https://fate-srd.com/fate-adversary-toolkit/obstacles)*)
 
-Obstacles can be introduced either by a character's special abilities, as part of the environment, or even a living being. An Obstacle can even be a part of the enemy you're fighting.
+Obstacles can be introduced either by a character's special abilities, as part of the environment, or even a living being. An Obstacle can even be a part of the enemy you're fighting. 
 
 Obstacles are not simply Aspects, but carry their own set of properties. Often (but not always) they can be Overcome and removed, but they typically cannot be destroyed by brute force. There are three types of obstacles: Hazards, Blocks, and Distractions. 
 
@@ -45,7 +45,7 @@ Obstacles are not simply Aspects, but carry their own set of properties. Often (
 | ----- | -------------- |
 | Hazards | Aspect, Unique Skill, Weapon, a Turn |
 | Blocks | Aspect, Unique Skill, optional Weapon | 
-| Distractions | Name, Choice, Repurcussion, optional Opposition | 
+| Distractions | Name, Choice, Reprecussion, optional Opposition | 
 
 ### Hazards
 Obstacles Attack characters and can do real damage. They have:
@@ -59,8 +59,8 @@ The Hazard's Skill is used for all of its rolls, and also dictates the passive o
 
 | Hazards Can... | Hazards Cannot... |
 | --------------- | --------------- |
-| Attack and deal damage | Be Attacked for damage\* |
-| Roll to Create an Advantage | Roll to Overcome |
+| Attack | Defend\* |
+| Create an Advantage | Overcoe |
 \**Narrative circumstances may convert a Hazard into an Attackable enemy* 
 
 #### Example Hazards
@@ -82,7 +82,7 @@ They *typically* do not hurt you, but they certainly can. Instead of Attacking, 
 
 If you like, you can Attack someone to forcibly push them into a Block. 
 
-You might also try to use a Block as cover from an Attack. If applicable, you would gain Armor equal to half the block's Skill (rounded down, minimum 1). Of course, so can your enemies.
+You might also try to use a Block as cover from an Attack. If applicable, you would gain [Armor](<adopted-rules#Weapon and Armor Levels>) equal to half the block's Skill (rounded down, minimum 1). Of course, so can your enemies.
 
 #### Example Blocks
 | Rating | Hazard Aspect/Skill | Weapon |

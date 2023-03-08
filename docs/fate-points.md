@@ -23,4 +23,6 @@ You *can* earn more Fate Points than your refresh number!
 
 ## GM Fate Points
 
-Unlike players, who have a number of Fate Points for their character, a GM's Fate Points are shared between all NPCs.
+Unlike players, who have a number of Fate Points for their character, a GM's Fate Points are shared between all NPCs. 
+
+GM Fate Points refresh every scene rather than every session.

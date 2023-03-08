@@ -33,7 +33,7 @@ Yes, when deemed appropriate.
 
 **Defend**
 * Subtract Armor Level from the total damage received.
-* If Armor reduces damage to 0, Defender gains a Boost. 
+* If Armor reduces damage to 0, Attacker gains a Boost. 
 
 ## Fate Points
 

@@ -10,9 +10,9 @@
 
 ## Weapon and Armor Interactions
 
-[Weapon and Armor](adopted-rules.md) do not impact Succeeding with Style, but their impact on damage can override the normal outcomes for Ties and Success. 
+[Weapon and Armor](adopted-rules.md) can subvert normal resolutions. Weapons can cause Ties to deal damage, and Armor can nullify damage and cause Boosts even on a Success.
 
 | Action | Attack Failure | Attack Tie | Attack Succeed |
 |--------|------|------|------|
 | Weapon | Attack is prevented. Do not apply Weapon damage. | Apply only Weapon damage, but do not create a Boost. | Deal Shifts of damage, then add damage equal to Weapon Level. | 
-| Armor | No damage is taken. No Boosts are made.  | If Attacker has Weapon, subtract Armor from damage received. Otherwise, Attacker gets a Boost. | Subtract Armor level from damage. If damage is now 0, Defender Boost. |
+| Armor | No damage is taken. No Boosts are made.  | If Attacker has Weapon, subtract Armor from damage received. Otherwise, Attacker gets a Boost. | Subtract Armor level from damage. If damage is now 0, Attacker Boost. |
