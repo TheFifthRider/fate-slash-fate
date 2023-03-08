@@ -11,7 +11,7 @@ The Roar Phase is an optional prelude to combat. It is a moment to define the aw
 
 However...
 1. After a Player Roars, the GM then gets to do a Roar. 
-   The GM can create as many Aspects as there are Players who Roar, even if there are not as many enemies.
+   The GM can Roar as many times as the Players Roar, even if it means some enemies get to Roar multiple times.
 2. Your Roar reflects a highly focused mindset. 
    You can only Attack with the Combat Style you used to Roar, or one of its Adjacent styles. 
    See the chart below.
