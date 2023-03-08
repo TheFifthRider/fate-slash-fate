@@ -70,4 +70,28 @@ In fact, there can be many benefits to popcorning to an enemy. One strategic qui
 
 Of course, every battle will have its own strategies. Feel free to confer with your party to decide your preferred course of action.
 
-## Conceding From A Conflict
+## Zones
+
+A battlefield is made up of Zones which. Zones can be big or small, and there can be as many or as few Zones as appropriate. Zones can even be created by major environmental changes or special abilities. 
+
+No matter what the Zone physically is, the point of the Zone is to codify range. You can always target any person or thing in a Zone. Maybe you're narratively jumping and sprinting around, but you can reasonably reach anything in the Zone during your turn. A Zone might be enclosed within a barrier or exist on a different elevation, or it may simply end because the adjacent Zone is "far away" enough. 
+
+### Attacking With Zones
+
+If it makes narrative sense, you can perform a ranged attack across Zones. If there is another Zone across a ***Giant Chasm***, an Archer can shoot across the gap. If your opponent is in a Zone representing the top of a skyscraper, it could be a hard sell to shoot at them from the adjacent alleyway.
+
+With an appropriate Stunt, you could certainly perform an Attack against every combatant in the Zone. This is distinct from a multi-target Attack. For a Zone Attack, each target will Roll to Defend against one total. 
+
+### Movement
+
+If nothing is in your way, you can move between Zones *in addition* to your Turn Action.
+
+Otherwise, you may need to use your Turn Action to Overcome the impediment. It could be the natural environment, an enchantment binding you to the Zone, or a fellow combatant trying to stop your efforts. Failure prevents your efforts, *or* you can succeed at a cost. However, there is no "Attack of Opportunity" against you when your back is turned.
+
+Conversely, you could also use your Turn Action to Overcome if you wanted to rush to any Zone on the map. The GM will set a difficulty for this, and it could be very high.
+
+## Multi-Target Attacks
+*(Source: [Fate Condensed](https://fate-srd.com/fate-condensed/optional-rules#ways-to-handle-multiple-targets))*
+
+
+## Getting Taken Out vs. Conceding the Conflict
