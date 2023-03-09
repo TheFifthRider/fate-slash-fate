@@ -1,28 +1,28 @@
 # Quick Reference
 
-<!--- TODO: Should we use collapsible admonitions to help find what you need without feeling lost, or would that complicate Ctrl+Z too much? things for kyuu to true think about. ---> 
-
 ## Basic Rolling
 
-<!--- TODO: I might add the graphical colored version of the Four Actions table I made --->
+![Outcome Table](<img/outcome table.png>)
 
-**Q: Can I Create An Advantage with a Combat Style?**
-Yes, when deemed appropriate.
+??? question "Action and Rolling FAQ"
 
-**Q: How do I do a multi-target roll?**
-1. Do one regular Action roll.
-2. Distribute resulting Shifts among targets. 
-3. Each target can Defend against their incoming Shifts.
-
-**Q: How do I roll against a full zone?**
-1. Do one regular Action roll. 
-2. Each person in the Zone Defends against that number. 
+	**Q: Can I Create An Advantage with a Combat Style?**
+	Yes, when deemed appropriate.
+	
+	**Q: How do I do a multi-target roll?**
+	1. Do one regular Action roll.
+	2. Distribute resulting Shifts among targets. 
+	3. Each target can Defend against their incoming Shifts.
+	
+	**Q: How do I roll against a full zone?**
+	1. Do one regular Action roll. 
+	2. Each person in the Zone Defends against that number. 
 
 ### Armor & Weapon
 *(See: [Extra Rules page](adopted-rules))*
 
 * Apply only when the Attack is successful. 
-* Does not count toward Succeed with Style.
+* Does not elevate a Success to Succeed With Style
 
 **Weapon**
 * Add Weapon Level to the total damage dealt. 
@@ -45,36 +45,42 @@ Fate Points can be earned by:
 2. Hostile Invokes on your Character/Consequence Aspects, paid with Fate Points
 3. Concede from a conflict
 
-**Q: If my refresh is full, can I still earn FP?**
-Yes!
+??? question "Fate Point FAQ"
 
-**Q: Session ended in the middle of combat. Do I get my FP back?**
-No! 
+    ...
+    **Q: If my refresh is full, can I still earn FP?**
+	Yes!
+	
+	**Q: Session ended in the middle of combat. Do I get my FP back?**
+	No! 
+	
+	**Q: Does it cost anything to refuse a Compel?**
+	No; you are already losing out on the offered Fate Point. 
+	
+	**Q: How many FP does the GM get?**
+	One for each PC in the scene, shared by all NPCs.
 
-**Q: Does it cost anything to refuse a Compel?**
-No; you are already losing out on the offered Fate Point. 
-
-**Q: How many FP does the GM get?**
-One for each PC in the scene, shared by all NPCs.
 
 ## Aspects & Command Seals
 
-**Q: What's a Boost?**
-A single-use Aspect, always free to invoke.
+??? question "Aspects & Command Seals FAQ"
 
-**Q: How many Free Invokes can I use at once?**
-As many as you want. 
-
-**Q: Can I use Free Invokes from different Aspects at the same time?**
-Yes
-
-**Q: Can I use a Fate Point with Free Invokes?**
-Yes, but only one.
-
-**Q: What happens when I use a Command Seal?**
-* Create an Aspect named after the Command
-* Aspect gets 2 Free Invokes
-* Aspect can be invoked for +3 instead of +2
+	**Q: What's a Boost?**
+	A single-use Aspect, always free to invoke.
+	
+	**Q: How many Free Invokes can I use at once?**
+	As many as you want. 
+	
+	**Q: Can I use Free Invokes from different Aspects at the same time?**
+	Yes
+	
+	**Q: Can I use a Fate Point with Free Invokes?**
+	Yes, but only one.
+	
+	**Q: What happens when I use a Command Seal?**
+	* Create an Aspect named after the Command
+	* Aspect gets 2 Free Invokes
+	* Aspect can be invoked for +3 instead of +2
 
 ## Combat
 
@@ -88,23 +94,30 @@ Yes, but only one.
 *  Player's Attacks only use their Roar Style or an adjacent Style. 
 *  When Player uses another Style to Attack, the Roar Aspect is removed.
 
-| Roar Style | Adjacent Styles |
-| ---- | ---- |
-| Buster | Wild, Brave |
-| Wild | Buster, Quick |
-| Quick | Wild, Sneaky |
-| Sneaky | Quick, Arts |
-| Arts | Sneaky, Brave | 
-| Brave | Arts, Buster | 
+```mermaid
+flowchart LR
+    ar(Arts) <--> br(Brave) & sn(Sneaky)
+    br <--> bu(Buster)
+    sn <--> qu(Quick)
+    bu & qu <--> wi(Wild)
+    style bu color:#fff,fill:#b30000 
+    style wi color:#fff,fill:#ce9f00
+    style qu color:#fff,fill:#41a21e
+    style sn color:#fff,fill:#424242
+    style ar color:#fff,fill:#2f59d2
+    style br color:#fff,fill:#401684
+```
 
-**Q: What is the difficulty for a Roar?**
-+2 (Good)
+??? question "Roar Phase FAQ"
 
-**Q: What is the penalty for failing on the Roar?**
-The same as any Create An Advantage -- do not create, or an adversary gets the Free Invoke.
-
-**Q: Do I lose my Roar if I Defend with another Style?**
-No. Currently, we are ruling it so that only Attacks count.
+	**Q: What is the difficulty for a Roar?**
+	+2 (Good)
+	
+	**Q: What is the penalty for failing on the Roar?**
+	The same as any Create An Advantage -- do not create, or an adversary gets the Free Invoke.
+	
+	**Q: Do I lose my Roar if I Defend with another Style?**
+	No. Currently, we are ruling it so that only Attacks count.
 
 ### Movement
 

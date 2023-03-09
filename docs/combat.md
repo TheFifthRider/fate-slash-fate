@@ -34,7 +34,7 @@ Arts          Quick
       Sneaky
 ```
 
-<!---!!! note "Modification From Original Rules" --->
+!!! note "Modification From Original Rules" 
 
     Under the original Fate rules, Failing your Roar roll would create a Consequence. 
     In Fate/moon, we will instead resolve this as you would any other Create An Advantage: the enemy gets a Free Invoke on the Aspect.
