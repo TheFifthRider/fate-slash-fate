@@ -14,7 +14,7 @@ One major benefit of Free Invokes is that they can be stacked, even across Aspec
 
 However, you can only spend 1FP toward Invocation per Action, though you can spend that in addition to Free Invokes.
 
-??? warning
+<!--- # TODO: Future Admonition ??? warning --->
     Invoking an enemy's Character Aspects can be a valuable strategy, but it comes with a significant risk: "hostile invokes" paid with Fate Points can grant that Fate Point to the character whose Aspect is being invoked!
 
 ### What Invocation Can Do:
@@ -28,7 +28,7 @@ Fate Points can famously be spent to "Declare A Story Detail", but this is not a
 
 ## Compelling Aspects
 
-!!! tip "You're doing WHAT now?"
+<!---!!! tip "You're doing WHAT now?" ---> 
     **Compelling is not Invoking!!!!!!!!!!**
 
 Compels are used to complicate a character's fate by drawing upon the natural implications of Aspects: "Because x, shouldn't y?"

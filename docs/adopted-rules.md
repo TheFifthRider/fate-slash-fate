@@ -39,13 +39,12 @@ Weapon and Armor are our currently recommended mechanics for damage factors. Fur
 
 Obstacles can be introduced either by a character's special abilities, as part of the environment, or even a living being. An Obstacle can even be a part of the enemy you're fighting. 
 
-Obstacles are not simply Aspects, but carry their own set of properties. Often (but not always) they can be Overcome and removed, but they typically cannot be destroyed by brute force. There are three types of obstacles: Hazards, Blocks, and Distractions. 
+Obstacles are not simply Aspects, but carry their own set of properties. Often (but not always) they can be Overcome and removed, but they typically cannot be destroyed by brute force.
 
 | Type | Components |
 | ----- | -------------- |
 | Hazards | Aspect, Unique Skill, Weapon, a Turn |
 | Blocks | Aspect, Unique Skill, optional Weapon | 
-| Distractions | Name, Choice, Reprecussion, optional Opposition | 
 
 ### Hazards
 Obstacles Attack characters and can do real damage. They have:
@@ -90,33 +89,3 @@ You might also try to use a Block as cover from an Attack. If applicable, you wo
 | +2 | ***Chain Link Fence*** | --- |
 | +3 | ***Vat of Acid*** | \[W:4\] |
 | +4 | ***Animate Statue*** | \[W:1\] |
-
-### Distractions
-
-Distractions are more narratively oriented than the Obstacles above. They have:
-
-1. A Name, which may or may not be an Aspect
-2. A Choice, presented as a question
-3. A Repurcussion (or multiple) for ignoring the Distraction
-4. An optional passive opposition rating
-
-Distractions can be a physical circumstance, a urgent ultimatum, or a simple personal dilemma. It may entail a single physical obstacle, or a choice of what action to take.
-
-A Distraction is not the same as a Compel, and it is not always about luring you away from the action. 
-
-#### Example Distractions
-
-***Sinister Ritual***
->**Choice:** Do you deal with the enemies attacking you, or do you stop the ritual?
->**Repercussion:** The cultists complete the ritual and summon the vile demon.
-
-***Bus Full of Civilians***
-> **Opposition:** Good (+3)
-> **Choice:** Will the bus plunge off the bridge?
-> **Repercussion (leave them):** All of the civilians on the bus die.
-> **Repercussion (save them):** The villain gets away!
-
-***The Glittering Gem***
-> **Choice:** Will you take the gem from the pedestal?
-> **Repercussion (leave the gem):** You don’t get the gem, which is incredibly valuable.
-> **Repercussion (take the gem):** You activate the traps in the temple.

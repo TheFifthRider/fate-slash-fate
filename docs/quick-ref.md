@@ -1,8 +1,5 @@
 # Quick Reference
 
-!!! note "notice !!!!"
-    (page under construction!!!)
-
 <!--- TODO: Should we use collapsible admonitions to help find what you need without feeling lost, or would that complicate Ctrl+Z too much? things for kyuu to true think about. ---> 
 
 ## Basic Rolling
@@ -145,4 +142,3 @@ No. Currently, we are ruling it so that only Attacks count.
 | ----- | -------------- |
 | Hazards | Aspect, Unique Skill, Weapon, a Turn |
 | Blocks | Aspect, Unique Skill, optional Weapon | 
-| Distractions | Name, Choice, Repurcussion, optional Opposition | 
