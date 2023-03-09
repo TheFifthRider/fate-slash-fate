@@ -14,7 +14,8 @@ One major benefit of Free Invokes is that they can be stacked, even across Aspec
 
 However, you can only spend 1FP toward Invocation per Action, though you can spend that in addition to Free Invokes.
 
- ??? warning 
+!!! warning
+ 
     Invoking an enemy's Character Aspects can be a valuable strategy, but it comes with a significant risk: "hostile invokes" paid with Fate Points can grant that Fate Point to the character whose Aspect is being invoked!
 
 ### What Invocation Can Do:
@@ -53,11 +54,11 @@ You are not required to accept a Compel, especially if you feel that the proposa
 
 Compels are a choice for the player to make, not necessarily their character. For example, accepting a Compel does not mean that a character willingly gives into their temptations or knowingly causes a problem. 
 
-### Cost and Reward 
+!!! info "Cost and Reward"
 
-In vanilla Fate Core, accepting a Compel rewards the character with a Fate Point, but rejecting a Compel *costs* a Fate Point. This can feel punishing, effectively costing the player 2 Fate Points, and can complicate refusals based upon character interpretations. 
-
-Thus, in FATE/Moon, **Accepting a Compel rewards 1 FP, but rejecting a Compel costs nothing.** 
+	In vanilla Fate Core, accepting a Compel rewards the character with a Fate Point, but rejecting a Compel *costs* a Fate Point. This can feel punishing, effectively costing the player 2 Fate Points, and can complicate refusals based upon character interpretations. 
+	
+	Thus, in FATE/Moon, **Accepting a Compel rewards 1 FP, but rejecting a Compel costs nothing.** 
 
 ## Boosts 
 

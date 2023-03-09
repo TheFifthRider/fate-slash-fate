@@ -1,7 +1,5 @@
 # Combat Rules
-
 In Fate, a full battle is called a Conflict, though we colloquially refer to it as Combat.
-
 ## Roar Phase
 *(Source: [War of Ashes](https://fate-srd.com/war-ashes/advanced-conflict)*)
 
@@ -10,35 +8,32 @@ The Roar Phase is an optional prelude to combat. It is a moment to define the aw
 **Mechanically**, each participating combatant is Creating An Advantage to place a special Roar Aspect on themself. You Roll against a +2 with the Combat Style that most fits your intentions. 
 
 However...
+
 1. After a Player Roars, the GM then gets to do a Roar. 
    The GM can Roar as many times as the Players Roar, even if it means some enemies get to Roar multiple times.
 2. Your Roar reflects a highly focused mindset. 
    You can only Attack with the Combat Style you used to Roar, or one of its Adjacent styles. 
    See the chart below.
 
-| Roar Style | Adjacent Styles |
-| ---- | ---- |
-| Buster | Wild, Brave |
-| Wild | Buster, Quick |
-| Quick | Wild, Sneaky |
-| Sneaky | Quick, Arts |
-| Arts | Sneaky, Brave | 
-| Brave | Arts, Buster | 
-
-You can visualize the relationship between Styles with this ring diagram:
-
+```mermaid
+flowchart LR
+    ar(Arts) <--> br(Brave) & sn(Sneaky)
+    br <--> bu(Buster)
+    sn <--> qu(Quick)
+    bu & qu <--> wi(Wild)
+    style bu color:#fff,fill:#b30000 
+    style wi color:#fff,fill:#ce9f00
+    style qu color:#fff,fill:#41a21e
+    style sn color:#fff,fill:#424242
+    style ar color:#fff,fill:#2f59d2
+    style br color:#fff,fill:#401684
 ```
-      Buster
-Brave         Wild
-Arts          Quick
-      Sneaky
-```
+*For example, if you Roar with Buster, you can Attack with Brave, Buster, or Wild.*
 
 !!! note "Modification From Original Rules" 
 
     Under the original Fate rules, Failing your Roar roll would create a Consequence. 
-    In Fate/moon, we will instead resolve this as you would any other Create An Advantage: the enemy gets a Free Invoke on the Aspect.
-
+    In FATE/moon, we will instead resolve this as you would any other Create An Advantage: the enemy gets a Free Invoke on the Aspect.
 
 ## Taking Turns
 
@@ -65,13 +60,13 @@ Rather than rolling initiative to determine a fixed turn order, the flow of acti
 4. Whoever finished the Exchange chooses the player to start the next Exchange. 
    Every participant is now available to act, though you cannot "popcorn" to yourself.
 
-#### Understanding The Implications
+!!! example "The Strategy and Implications of Popcorn Initiative"
 
-You can "popcorn" to any participant, even if they are not your ally. As with Compels and Conceding, the Popcorn Initiative is a player decision and not a character one. Your character does not have to yield to an enemy to allow them to act; you the player are simply turning the camera. 
-
-In fact, there can be many benefits to popcorning to an enemy. One strategic quirk of the Popcorn Initiative is that you may want to get the enemy's Turns out of the way! If you allow an enemy to have the last Turn in the Exchange, they may choose another enemy to start the next Exchange, and that enemy might then choose another enemy! On the other hand, letting your ally end the Exchange lets your team control the top of the turn order.
-
-Of course, every battle will have its own strategies. Feel free to confer with your party to decide your preferred course of action.
+	You can "popcorn" to any participant, even if they are not your ally. As with Compels and Conceding, the Popcorn Initiative is a player decision and not a character one. Your character does not have to yield to an enemy to allow them to act; you the player are simply turning the camera. 
+	
+	In fact, there can be many benefits to popcorning to an enemy. One strategic quirk of the Popcorn Initiative is that you may want to get the enemy's Turns out of the way! If you allow an enemy to have the last Turn in the Exchange, they may choose another enemy to start the next Exchange, and that enemy might then choose another enemy! On the other hand, letting your ally end the Exchange lets your team control the top of the turn order.
+	
+	Of course, every battle will have its own strategies. Feel free to confer with your party to decide your preferred course of action.
 
 ## Zones
 

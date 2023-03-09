@@ -8,8 +8,8 @@ More benignly, Masters can also use Seals as a way of powering up their Servant 
 
 Either way, when a Command is issued with a Command Seal, the Servant is obligated by their contract to do everything they can to see the order through to its completion. Depending on the Command, a Servant may be able to attempt resistance or subversion, but the contract can  physically overpower them
 
-??? warning
-    While most Command Seals will be used in the latter way, their original intended use is a great source of drama and is encouraged. But be reasonable and respect the wishes of other players if they have an objection to their character being bound by a Command.
+!!! note
+    While most Command Seals will be used in the cooperative way, they can be a great source of drama and such usage is encouraged. But be reasonable! Respect the wishes of other players if they have an objection to the Command. 
 
 ## Using Command Seals
 
