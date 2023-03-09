@@ -9,3 +9,10 @@ copyright: Fate™ is a trademark of Evil Hat Productions, LLC. The Powered by F
 markdown_extensions:
   - attr_list
   - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
