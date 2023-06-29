@@ -40,4 +40,12 @@ Stunt:	When you suffer a consequence, create a Boost.
 
 ## Foreigner					
 Aspect:	***Ties to the Unknown***				
-Stunt:	You can invoke Ties to the Unknown to perform a powerful, unpredictable effect tied to your Elder God's will.				
+Stunt:	You can invoke Ties to the Unknown to perform a powerful, unpredictable effect tied to your Elder God's will.	
+
+## Alter Ego					
+Aspect:	***Built from Tremendous Power***	
+Stunt: You can invoke Built from Tremendous Power to resist a consequence.  _(Reduce your HP to 1 and do not mark a consequence)_
+
+## Moon Cancer
+Aspect: ***Threat to the Moon***	
+Stunt: You can invoke **Threat to the Moon** when someone else is passed the initiative to steal it for yourself. _(You may only steal the initiative if you can still act this exchange)_
