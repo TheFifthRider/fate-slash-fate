@@ -35,7 +35,7 @@ Aspect:	***True Name Discernment***
 Stunt:	You can invoke True Name Discernment to learn an unknown character aspect.				
 
 ## Avenger					
-Aspect:	***Vengeance of the Wronged***				
+Aspect:	***Vengeance of the Wronged***	
 Stunt:	When you suffer a consequence, create a Boost.				
 
 ## Foreigner					
