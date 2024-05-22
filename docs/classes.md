@@ -40,7 +40,7 @@ Stunt:	When you suffer a consequence, create a Boost.
 
 ## Foreigner					
 Aspect:	***Ties to the Unknown***				
-Stunt:	You can invoke Ties to the Unknown to perform a powerful, unpredictable effect tied to your Elder God's will.	
+Stunt:	You can invoke Ties to the Unknown to succeed at a cost on anything you're trying to do, where the cost is temporarily becoming a terminal for the entity you are tied to.
 
 ## Alter Ego					
 Aspect:	***Built from Tremendous Power***	
@@ -49,3 +49,7 @@ Stunt: You can invoke Built from Tremendous Power to resist a consequence.  _(Re
 ## Moon Cancer
 Aspect: ***Threat to the Moon***	
 Stunt: You can invoke **Threat to the Moon** when someone else is passed the initiative to steal it for yourself. _(You may only steal the initiative if you can still act this exchange)_
+
+## Pretender
+Aspect: ***False Saint Graph***
+Stunt: You may invoke **False Saint Graph** to swap any two skills or combat styles. In addition, choose another class. Until **False Saint Graph** is discovered, you may invoke it as if it were the class aspect for the chosen class.
