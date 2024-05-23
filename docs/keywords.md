@@ -55,6 +55,20 @@ Shield is a keyword for aspects that grant an armor rating to whomever (or whate
 ??? example "Example stunt: Bulletproof Fibers"
     When Willow Succeeds at creating an Advantage with her plant magic, she can spend a plant point to turn the created aspect into an \[Armor:1 Shield\]. When the aspect is created, she may also invoke the created aspect to increase the Armor rating of the Shield by 1 for each invoke.
 
+## Foil Invokes
+
+Foil Invokes are Free Invokes that can only be used against an enemy's roll. Typically, a stunt will create more Foil Invokes than it would Free Invokes because of this limitation.
+
+??? example "Example stunt: Tell the Sun to Shine on Only Me"
+    Whenever Willow Creates an Advantage, she can choose to place twice as many Foil Invokes as she would Free Invokes, replacing the free invokes.
+
+  
+
+Example Stunt:
+
+Tell The Sun To Shine On Only Me  
+Whenever Willow Creates an Advantage, she can place Rain Invokes instead of Free Invokes and get one bonus Rain Invoke**
+
 ## Obstacles
 (*Source: [Fate Adversary Toolkit](https://fate-srd.com/fate-adversary-toolkit/obstacles)*)
 
