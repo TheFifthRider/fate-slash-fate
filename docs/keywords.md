@@ -62,13 +62,6 @@ Foil Invokes are Free Invokes that can only be used against an enemy's roll. Typ
 ??? example "Example stunt: Tell the Sun to Shine on Only Me"
     Whenever Willow Creates an Advantage, she can choose to place twice as many Foil Invokes as she would Free Invokes, replacing the free invokes.
 
-  
-
-Example Stunt:
-
-Tell The Sun To Shine On Only Me  
-Whenever Willow Creates an Advantage, she can place Rain Invokes instead of Free Invokes and get one bonus Rain Invoke**
-
 ## Obstacles
 (*Source: [Fate Adversary Toolkit](https://fate-srd.com/fate-adversary-toolkit/obstacles)*)
 
