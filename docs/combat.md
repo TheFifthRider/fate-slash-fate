@@ -1,39 +1,5 @@
 # Combat Rules
 In Fate, a full battle is called a Conflict, though we colloquially refer to it as Combat.
-## Roar Phase
-*(Source: [War of Ashes](https://fate-srd.com/war-ashes/advanced-conflict)*)
-
-The Roar Phase is an optional prelude to combat. It is a moment to define the awesome way that your character is approaching the Conflict before them. Maybe you are ***Intensely Focused***, or maybe you have entered into a ***Berserk Rage*.
-
-**Mechanically**, each participating combatant is Creating An Advantage to place a special Roar Aspect on themself. You Roll against a +2 with the Combat Style that most fits your intentions. 
-
-However...
-
-1. After a Player Roars, the GM then gets to do a Roar. 
-   The GM can Roar as many times as the Players Roar, even if it means some enemies get to Roar multiple times.
-2. Your Roar reflects a highly focused mindset. 
-   You can only Attack with the Combat Style you used to Roar, or one of its Adjacent styles. 
-   See the chart below.
-
-```mermaid
-flowchart LR
-    ar(Arts) <--> br(Brave) & sn(Sneaky)
-    br <--> bu(Buster)
-    sn <--> qu(Quick)
-    bu & qu <--> wi(Wild)
-    style bu color:#fff,fill:#b30000 
-    style wi color:#fff,fill:#ce9f00
-    style qu color:#fff,fill:#41a21e
-    style sn color:#fff,fill:#424242
-    style ar color:#fff,fill:#2f59d2
-    style br color:#fff,fill:#401684
-```
-*For example, if you Roar with Buster, you can Attack with Brave, Buster, or Wild.*
-
-!!! note "Modification From Original Rules" 
-
-    Under the original Fate rules, Failing your Roar roll would create a Consequence. 
-    In FATE/moon, we will instead resolve this as you would any other Create An Advantage: the enemy gets a Free Invoke on the Aspect.
 
 ## Taking Turns
 
