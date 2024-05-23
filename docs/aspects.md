@@ -62,7 +62,7 @@ Compels are a choice for the player to make, not necessarily their character. Fo
 
 ## Boosts 
 
-Boosts are temporary type of Aspect usually granted as a bonus or a consolation under the [Four Actions](Four-Actions.md)' outcomes. Boosts have 1 Free Invoke, but disappear as soon as you use them.
+Boosts are temporary type of Aspect usually granted as a bonus or a consolation under the [Four Actions](quick-ref.md)' outcomes. Boosts have 1 Free Invoke, but disappear as soon as you use them.
 
 Thus, Boosts are best named for temporary things, such as a ***Burst of Energy*** or ***Dropped Guard***.
 
