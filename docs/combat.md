@@ -9,11 +9,11 @@ Bosses may receive multiple turns, and low-level "mooks" might share their place
 
 One complete round of turns is called an Exchange.
 
-#### The Nature Of Turns
-
-Flavorfully, it is important to remember that turn-based battle does not mean your character is sitting around waiting for their turn on the XBox. You can always safely assume that your characters are trading blows, dodging, repositioning, preparing, etc. while others act, or that your actions are simultaneous. Your turn is simply when the camera zooms in on you for a significant development!
-
-Brief dialogues are also perfectly fine to have during combat, but extended conversations may have to be paused until the next Exchange. One possible rule of thumb is to ask: "Would this fit on one page of manga?"
+??? question "So I can only do something on my turn?"
+    
+    Flavorfully, it is important to remember that turn-based battle does not mean your character is sitting around waiting for their turn on the XBox. You can always safely assume that your characters are trading blows, dodging, repositioning, preparing, etc. while others act, or that your actions are simultaneous. Your turn is simply when the camera zooms in on you for a significant development!
+    
+    Brief dialogues are also perfectly fine to have during combat, but extended conversations may have to be paused until the next Exchange. One possible rule of thumb is to ask: "Would this fit on one page of manga?"
 
 ### Popcorn Initiative
 *(The Fate SRD discusses this under [Elective Action Order](https://fate-srd.com/odds-ends/elective-action-order))*
@@ -26,7 +26,7 @@ Rather than rolling initiative to determine a fixed turn order, the flow of acti
 4. Whoever finished the Exchange chooses the player to start the next Exchange. 
    Every participant is now available to act, though you cannot "popcorn" to yourself.
 
-!!! example "The Strategy and Implications of Popcorn Initiative"
+!!! tip "The Strategy and Implications of Popcorn Initiative"
 
 	You can "popcorn" to any participant, even if they are not your ally. As with Compels and Conceding, the Popcorn Initiative is a player decision and not a character one. Your character does not have to yield to an enemy to allow them to act; you the player are simply turning the camera. 
 	

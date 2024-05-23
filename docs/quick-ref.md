@@ -35,18 +35,12 @@
 
 ## Fate Points
 
-Fate Points can be spent to:
-
-1. Invoke an Aspect
-2. Compel an Aspect
-3. Declare a Story Detail
-4. Power a Stunt
-
-Fate Points can be earned by:
-
-1. Accepting a Compel
-2. Hostile Invokes on your Character/Consequence Aspects, paid with Fate Points
-3. Concede from a conflict
+| Spending Fate Points   | Earning Fate Points     |
+| ---------------------- | ----------------------- |
+| Invoke an Aspect       | Accept a Compel         |
+| Compel an Aspect       | Concede from a conflict |
+| Declare a Story Detail |                         |
+| Power a Stunt          |                         |
 
 ??? question "Click here for the Fate Point FAQ"
 

@@ -66,10 +66,10 @@ Boosts are temporary type of Aspect usually granted as a bonus or a consolation 
 
 Thus, Boosts are best named for temporary things, such as a ***Burst of Energy*** or ***Dropped Guard***.
 
-## Clarification: "Aspects Are True"
-
-Because Aspects Are True, any object or condition described by an Aspect carries narrative weight and sometimes mechanical impact. If you have taken a Consequence for a ***Broken Hand***, it's not just for flavor; you probably cannot handwrite a letter. 
-
-Likewise, any significant setpieces or rules may become codified as an Aspect with the GM's discretion. Though, not every single little thing needs to become an Aspect. 
-
-Of course, this also means that once an Aspect *stops* being true, the Aspect (and any of its Free Invokes) can disappear. If a building was ***On Fire*** but no longer is, then you can no longer invoke that Aspect.
+!!! info "Clarification: 'Aspects Are True'"
+    
+    Because Aspects Are True, any object or condition described by an Aspect carries narrative weight and sometimes mechanical impact. If you have taken a Consequence for a ***Broken Hand***, it's not just for flavor; you probably cannot handwrite a letter. 
+    
+    Likewise, any significant setpieces or rules may become codified as an Aspect with the GM's discretion. Though, not every single little thing needs to become an Aspect. 
+    
+    Of course, this also means that once an Aspect *stops* being true, the Aspect (and any of its Free Invokes) can disappear. If a building was ***On Fire*** but no longer is, then you can no longer invoke that Aspect.
