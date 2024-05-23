@@ -11,17 +11,14 @@ Stunts can create exceptions to the contexts in which Skills or Combat Styles ar
 The following are Skills: 
 
 1. Athletics
-2. Crafts
-3. Discover
-4. Finesse
-5. Insight
-6. Research
-7. Resourcefulness
-8. Riding
-9. Stealth
-10. Strength
-11. Sway
-12. Will
+2. Discover
+3. Finesse
+4. Insight
+5. Research
+6. Resourcefulness
+7. Strength
+8. Sway
+9. Will
 
 The following are Combat Styles:
 
@@ -38,17 +35,13 @@ The following are Combat Styles:
 
 Used for anything that requires athletic skill or acumen in order to accomplish. Athletics will often be used to roll for climbing checks, speed challenges and dodging in a non combat situation. 
 
-### Crafts
-
-The ability to create. Whether it be mechanical skill or magical, this represents your ability to craft items from various sources. It also represents artistic prowess. Crafts will be called into question when attempting to make Advantages mostly, though it may be used in other ways.
-
 ### Discover
 
 A combination of the old skill Notice and Investigate. Discover is the Skill used primarily to search for information or notice things within your vicinity. A player will use Discover to search rooms, notice incoming attacks and projectiles or search through stacks of documents or books. Discover is used when players don’t have time, otherwise use Research.
 
 ### Finesse
 
-There is a difference between doing something and doing something skillfully. Anyone can paint but an artist is capable of masterpieces for instance. Finesse is used when fine motor skills or precision. Things like lockpicking, building mechanically complex machines, sleight of hand are all checks. Finesse can also be rolled to create Advantages that can be used with Crafts to make things otherwise not possible.
+There is a difference between doing something and doing something skillfully. Anyone can paint but an artist is capable of masterpieces for instance. Finesse is used when fine motor skills or precision. Things like lockpicking, building mechanically complex machines, sleight of hand are all checks. Finesse can also be rolled to create Advantages to make things otherwise not possible.
 
 ### Insight
 
@@ -61,14 +54,6 @@ In the world of Mages, having a skill like Research is very important. Research 
 ### Resourcefulness
 
 Your ability to think quickly and solve problems on the fly. Things like survival and street skills. Resourcefulness is rolled when you need to make the best of a bad situation.
-
-### Riding
-
-The replacement of Drive. It's the same as it is in the base game however it has been renamed “Riding” for flavor. If one needs to drive a vehicle or ride an animal or any variation of such a thing, this is the skill that is called upon.
-
-### Stealth
-
-The ability to hide the presence of oneself. Also used for any action that one would try to hide or not be found out doing such as burglary. Stealth can often be used in opposition to checks such as Discover in order to keep low profiles.
 
 ### Strength
 
@@ -130,17 +115,13 @@ All Stats are capped at level 5.
 
 What does rolling a number mean? [sic]
 
-| # | Interpretation |
-| -- | -----------------------------------------------| 
-| 0 | A normal, untrained human has this stat. Its naturally what you can do as a member of the human race |
-| 1 | Someone who knows the basics and has a surface level understanding, but are still more experienced than if they had just learned of the thing |
-| 2 | Well educated in the subject, but does not know the ins and outs of the craft |
-| 3 | Has performed the task or skill enough to have learned more than just book smarts. Can fundamentally understand things that someone who isnt as experienced in said field would not understand. |
-| 4 | A professional, likely this stat is a focus of their life. |
-| 5 | A master, someone who knows the stat inside and out. The difference between say a painter with some works in an art gallery vs a painter who can make a fortune off their paintings. |
-| 6 | A genius, someone who understands the stat more than most people on the planet. |
-| 7 | A godlike command over the stat, something most mortals could not achieve. |
-
-# Advancement
-
-Because there are a significant amount more skills than combat styles, whenever you get a **Breakthrough** you only are able to increase your skills by 1. However, some breakthroughs the GMs might say it makes sense for everyone to get a power boost. In that case they can increase a combat style by 1 in addition to a skill.
+| #   | Interpretation                                                                                                                                                                                  |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0   | A normal, untrained human has this stat. Its naturally what you can do as a member of the human race                                                                                            |
+| 1   | Someone who knows the basics and has a surface level understanding, but are still more experienced than if they had just learned of the thing                                                   |
+| 2   | Well educated in the subject, but does not know the ins and outs of the craft                                                                                                                   |
+| 3   | Has performed the task or skill enough to have learned more than just book smarts. Can fundamentally understand things that someone who isnt as experienced in said field would not understand. |
+| 4   | A professional, likely this stat is a focus of their life.                                                                                                                                      |
+| 5   | A master, someone who knows the stat inside and out. The difference between say a painter with some works in an art gallery vs a painter who can make a fortune off their paintings.            |
+| 6   | A genius, someone who understands the stat more than most people on the planet.                                                                                                                 |
+| 7   | A godlike command over the stat, something most mortals could not achieve.                                                                                                                      |
