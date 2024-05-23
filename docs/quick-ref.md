@@ -17,7 +17,7 @@
 	2. Each person in the Zone Defends against that number. 
 
 ## Armor & Weapon
-*(See: [Adopted Rules](adopted-rules))*
+*(See: [Adopted Rules](adopted-rules.md))*
 
 - Apply only when the Attack is successful. 
 - Does not elevate a Success to Succeed With Style

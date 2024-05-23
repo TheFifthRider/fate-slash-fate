@@ -81,7 +81,7 @@ They *typically* do not hurt you, but they certainly can. Instead of Attacking, 
 
 If you like, you can Attack someone to forcibly push them into a Block. 
 
-You might also try to use a Block as cover from an Attack. If applicable, you would gain [Armor](<adopted-rules#Weapon and Armor Levels>) equal to half the block's Skill (rounded down, minimum 1). Of course, so can your enemies.
+You might also try to use a Block as cover from an Attack. If applicable, you would gain [Armor](#Weapon and Armor Levels) equal to half the block's Skill (rounded down, minimum 1). Of course, so can your enemies.
 
 #### Example Blocks
 | Rating | Hazard Aspect/Skill | Weapon |

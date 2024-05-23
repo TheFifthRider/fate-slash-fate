@@ -15,6 +15,6 @@ Either way, when a Command is issued with a Command Seal, the Servant is obligat
 
 When a Command Seal is used, the order is codified as an Aspect with 2 Free Invokes, just as if you Succeeded with Style on Creating an Advantage. 
 
-In addition to being a source of [compels](aspects), Command Seal Aspects can be invoked for a +3 toward relevant Actions instead of a +2.
+In addition to being a source of [compels](aspects.md), Command Seal Aspects can be invoked for a +3 toward relevant Actions instead of a +2.
 
 A Singularity begins with 3 Command Seals shared by all Masters in the party. Command Seals will regenerate after each Singularity once you make a new contract with a different Servant.

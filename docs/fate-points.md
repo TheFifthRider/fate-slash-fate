@@ -2,7 +2,7 @@
 
 ## Spending
 
-The primary usage of Fate Points is to [Invoke and Compel Aspects](aspects), but they have other uses.
+The primary usage of Fate Points is to [invoke and compel aspects](aspects.md), but they have other uses.
 
 A Fate Point may be paid to Declare A Story Detail, such as establishing a relationship between you and a key NPC. Ideally, this should be rooted in one of your Aspects, but it is not an invocation since it cannot be done with a Free Invoke.
 

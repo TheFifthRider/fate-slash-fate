@@ -111,7 +111,7 @@ Yes, you *can* try to Attack multiple people at once. Technically, these rules c
 
 ## Getting Taken Out vs. Conceding the Conflict
 
-Once you've taken all the hits you can (pending your option to [take an extreme consequence](consequences)) you are taken out of the conflict. **This is not necessarily the same as being killed!** Perhaps you simply fall unconscious, or you get taken hostage. Remember: stress represents your stamina.
+Once you've taken all the hits you can (pending your option to [take an extreme consequence](consequences.md)) you are taken out of the conflict. **This is not necessarily the same as being killed!** Perhaps you simply fall unconscious, or you get taken hostage. Remember: stress represents your stamina.
 
 Whoever took you out gets to decide what happens to you. (...Which could be worse than death!)
 

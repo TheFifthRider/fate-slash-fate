@@ -40,7 +40,7 @@ More specifically, Fate officially offers this template for Compels:
 
 > -   You have \_\_\_\_ aspect in \_\_\_\_ situation, so it makes sense that you’d decide to \_\_\_\_. This goes wrong when \_\_\_\_ happens.
 
-Troubles are built to encourage Compels, but any Aspect can be Compelled if it makes sense, not just Character Aspects. Aspects created by [Command Seals](command-seals) are prime candidates for Compels.
+Troubles are built to encourage Compels, but any Aspect can be Compelled if it makes sense, not just Character Aspects. Aspects created by [Command Seals](command-seals.md) are prime candidates for Compels.
 
 > A building being ***On Fire*** could be Compelled to push a character to flee instead of retrieving an artifact from the wreckage. 
 
@@ -62,7 +62,7 @@ Compels are a choice for the player to make, not necessarily their character. Fo
 
 ## Boosts 
 
-Boosts are temporary type of Aspect usually granted as a bonus or a consolation under the [Four Actions](Four-Actions)' outcomes. Boosts have 1 Free Invoke, but disappear as soon as you use them.
+Boosts are temporary type of Aspect usually granted as a bonus or a consolation under the [Four Actions](Four-Actions.md)' outcomes. Boosts have 1 Free Invoke, but disappear as soon as you use them.
 
 Thus, Boosts are best named for temporary things, such as a ***Burst of Energy*** or ***Dropped Guard***.
 
