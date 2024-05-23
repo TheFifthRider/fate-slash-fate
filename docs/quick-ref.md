@@ -24,9 +24,9 @@
 	2. Each person in the Zone Defends against that number. 
 
 ## Armor & Weapon
-*(See: [Adopted Rules](adopted-rules.md))*
+*(See: [Keywords](keywords.md))*
 
-[Weapon and Armor](adopted-rules.md) can subvert normal resolutions. Weapons can cause Ties to deal damage, and Armor can nullify damage and cause Boosts even on a Success.
+[Weapon and Armor](keywords.md) can subvert normal resolutions. Weapons can cause Ties to deal damage, and Armor can nullify damage and cause Boosts even on a Success.
 
 | Action | Attack Failure                                   | Attack Tie                                                                                     | Attack Succeed                                                        |
 | ------ | ------------------------------------------------ | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
