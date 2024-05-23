@@ -90,46 +90,6 @@ Fate Points can be earned by:
 	* Aspect can be invoked for +3 instead of +2
 
 ## Combat
-
-### ROAR!
-
-1. Player Roll against +2 to Create An Advantage using a Combat Style.
-2. GM gets a chance to Create An Advantage
-3. Repeat until all Players participating in the Roar have Roared
-
-**Keeping Your Roar Aspect:**
-
-*  Player's Attacks only use their Roar Style or an adjacent Style. 
-*  When Player uses another Style to Attack, the Roar Aspect is removed.
-
-```mermaid
-flowchart LR
-    ar(Arts) <--> br(Brave) & sn(Sneaky)
-    br <--> bu(Buster)
-    sn <--> qu(Quick)
-    bu & qu <--> wi(Wild)
-    style bu color:#fff,fill:#b30000 
-    style wi color:#fff,fill:#ce9f00
-    style qu color:#fff,fill:#41a21e
-    style sn color:#fff,fill:#424242
-    style ar color:#fff,fill:#2f59d2
-    style br color:#fff,fill:#401684
-```
-
-??? question "Click here for the Roar Phase FAQ"
-
-	**Q: What is the difficulty for a Roar?**
-	
-	+2 (Good)
-	
-	**Q: What is the penalty for failing on the Roar?**
-	
-	The same as any Create An Advantage -- do not create, or an adversary gets the Free Invoke.
-	
-	**Q: Do I lose my Roar if I Defend with another Style?**
-	
-	No. Currently, we are ruling it so that only Attacks count.
-
 ### Movement
 
 * **No opposition:** You may take an Action *and* move to another Zone.
