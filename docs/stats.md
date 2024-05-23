@@ -1,6 +1,6 @@
 # Skills and Combat Styles
 
-FATE/Moon uses a split list of stats: 12 Skills and 6 Combat Styles. 
+FATE/Moon uses a split list of stats: 9 Skills and 6 Combat Styles. 
 
 This is in order to allow players to focus on non combat skills without feeling like they can’t function during combat, which is half the roleplay. Skills have been changed from the base game in order to fit Chaldea and also make some skills less useful which may have been overpowered and vice versa. 
 
